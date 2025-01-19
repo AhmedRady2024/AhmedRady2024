@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedRady2024
-- 👀 I’m interested in IOS development .
-- 🌱 I’m currently learning IOS engineering .
+- 👀 I’m a MEARN fullStack Developer .
+- 🌱 I’m interested in web Development as a fullStack engineer .
 - 💞️ I’m looking to collaborate on build new projects .
 - 📫 How to reach me on my email - ahmedabdelrady3799@gmail.com.
 - 😄 Pronouns: ...
