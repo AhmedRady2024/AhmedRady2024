@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on build new projects .
 - 📫 How to reach me =>
 - 📫 on my email : ahmedabdelrady3799@gmail.com .
-- - 📫 on my LinkedIn  : [](https://www.linkedin.com/in/ahmed-rady-8899872ba/) .
+- - 📫 on my LinkedIn  : www.linkedin.com/in/ahmed-rady-8899872ba
 
 <!---
 AhmedRady2024/AhmedRady2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
